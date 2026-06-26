@@ -1,0 +1,46 @@
+{
+  "project": "minimalism_design",
+  "generated_at": "2026-06-26T08:30:00Z",
+  "deck_rendering": "minimalist-swiss",
+  "deck_palette": "mono-ink",
+  "color_scheme": {
+    "primary": "#1D2A44",
+    "secondary": "#FAF6F0",
+    "accent": "#C8966E"
+  },
+  "items": [
+    {
+      "filename": "cover_bg.png",
+      "purpose": "Cover background (Slide 01)",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Strict Swiss-grid minimalism. Composition is built on a visible or implied modular grid — every element snaps to grid lines, deliberate column-and-row alignment carries the whole page. Forms are reduced to essential geometric primitives — clean rectangles, perfect circles, single-weight lines. Typographic character is sans-serif, set with rigorous spacing. Color behavior: warm ivory background #FAF6F0 dominates as the main field (about 80% area); primary dark navy #1D2A44 forms a confident vertical block on the left (about 15% area); accent warm caramel #C8966E appears only as one thin horizontal line near the lower right corner (under 5% of canvas). No gradients, no shadows, no texture, no decoration. Negative space carries as much weight as filled areas. Composed as a 1280x720 full-bleed PPT background. The center 60% of the canvas is deliberately calm and empty, designed to receive a slide title overlaid in SVG. NO text of any kind anywhere in the image. Color values are rendering guidance only — do not display HEX codes or color names as text.",
+      "alt_text": "Minimalist Swiss grid cover background in warm ivory, dark navy and caramel",
+      "status": "Generated"
+    },
+    {
+      "filename": "roots_p02.png",
+      "purpose": "Zen and Bauhaus historical roots (Slide 02)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "1K",
+      "prompt": "Strict Swiss-grid minimalism. Composition is built on a visible or implied modular grid. Forms are reduced to essential geometric primitives — clean rectangles, perfect circles, single-weight lines. Color behavior: warm ivory background #FAF6F0 (about 70%); all linework and geometric figures in primary dark navy #1D2A44 (about 25%). Accent warm caramel #C8966E appears on a single highlighted circle only (about 5%). No gradients, no shadows, no texture, no decoration. Composed as a 1280x720 image. The visual composition is a abstract symbolic illustration merging Eastern Zen rock garden concentric circles with Western Bauhaus geometric architectural lines, aligned to a rigorous grid. NO text, letters, numbers, signs, watermarks, or written symbols. Color values are rendering guidance only.",
+      "alt_text": "Abstract line art merging Japanese Zen garden with Bauhaus geometry",
+      "status": "Generated"
+    },
+    {
+      "filename": "design_p08.png",
+      "purpose": "Industrial design Braun radio sketch (Slide 08)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "1K",
+      "prompt": "Strict Swiss-grid minimalism. Composition is built on a visible or implied modular grid. Forms are reduced to essential geometric primitives — clean rectangles, perfect circles, single-weight lines. Color behavior: warm ivory background #FAF6F0 (about 65%); all linework and geometric figures in primary dark navy #1D2A44 (about 30%). Accent warm caramel #C8966E appears only on a single dial/button (about 5%). No gradients, no shadows, no texture, no decoration. Composed as a 1280x720 image. The visual composition is a minimalist product sketch of a classic Braun-style收音机 (radio) in front-facing 2D orthographic projection, showing precise circular knobs and rectangular speaker grill lines aligned strictly to the grid. NO text, letters, numbers, signs, watermarks, or written symbols. Color values are rendering guidance only.",
+      "alt_text": "Minimalist line sketch of a classic Braun radio in front projection",
+      "status": "Generated"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "providers": [
+    "codecogs",
+    "quicklatex",
+    "mathpad",
+    "wikimedia"
+  ],
+  "items": [
+    {
+      "id": "formula_001",
+      "latex": "A = \\frac{M}{D} \\quad (D \\to 0)",
+      "display": "block",
+      "color": "#1D2A44",
+      "background": "#FAF6F0",
+      "transparent": true,
+      "dpi": 400,
+      "filename": "formula_001.png",
+      "file": "images/formula_001.png",
+      "providers": [
+        "codecogs",
+        "quicklatex",
+        "mathpad",
+        "wikimedia"
+      ],
+      "transparent_tolerance": 12,
+      "provider": "quicklatex",
+      "provider_errors": [
+        "codecogs: HTTP Error 503: Service Unavailable"
+      ],
+      "pixel_width": 332,
+      "pixel_height": 53,
+      "ratio": 6.2642,
+      "status": "Rendered"
+    },
+    {
+      "id": "formula_002",
+      "latex": "\\phi = \\frac{1 + \\sqrt{5}}{2} \\approx 1.618",
+      "display": "block",
+      "color": "#1D2A44",
+      "background": "#FAF6F0",
+      "transparent": true,
+      "dpi": 400,
+      "filename": "formula_002.png",
+      "file": "images/formula_002.png",
+      "providers": [
+        "codecogs",
+        "quicklatex",
+        "mathpad",
+        "wikimedia"
+      ],
+      "transparent_tolerance": 12,
+      "provider": "quicklatex",
+      "provider_errors": [
+        "codecogs: HTTP Error 503: Service Unavailable"
+      ],
+      "pixel_width": 351,
+      "pixel_height": 57,
+      "ratio": 6.1579,
+      "status": "Rendered"
+    }
+  ],
+  "renderer": {
+    "providers": [
+      "codecogs",
+      "quicklatex",
+      "mathpad",
+      "wikimedia"
+    ],
+    "default_dpi": 300,
+    "output_dir": "images"
+  }
+}
