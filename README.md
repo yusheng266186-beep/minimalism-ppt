@@ -5,6 +5,25 @@
 > 在线演示：[打开互动演示](https://yusheng266186-beep.github.io/minimalism-ppt/)  
 > GitHub：[查看源代码](https://github.com/yusheng266186-beep/minimalism-ppt)
 
+<!-- project-navigation:start -->
+## 项目概览
+
+| 项目 | 说明 |
+| --- | --- |
+| 分类 | 旅行与互动展示 |
+| 平台 | 浏览器 / 16:9 演示网页 |
+| 当前定位 | 已归档 · 互动展示 |
+
+在浏览器中展示极简主义哲学、设计原则与空白之美的互动演示文稿。
+
+[历史页面](https://yusheng266186-beep.github.io/minimalism-ppt/) · [使用与开发](#使用方式) · [项目总导航](https://github.com/yusheng266186-beep/yusheng266186-beep)
+
+**归档说明：** 本库保留历史作品与当时的开发、部署或行程记录。原文中的日期、价格和版本具有历史语境，使用前需核对当前信息。
+
+**阅读导航：** [使用方式](#使用方式) · [目录结构](#目录结构)
+
+<!-- project-navigation:end -->
+
 ## 项目简介
 
 本项目把传统 PPT 的页面结构搬到了浏览器中。画布采用 1280×720 的演示比例，页面在不同屏幕尺寸下自动缩放，适合课堂展示、设计分享、个人作品集或全屏播放。
